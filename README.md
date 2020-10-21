@@ -6,6 +6,8 @@ https://opportunityinsights.org/data/
 
 https://www.spglobal.com/marketintelligence/en/topics/real-estate
 
+https://www.cushmanwakefield.com/en/united-states/insights/us-marketbeats/new-york-city-area-marketbeats
+
 https://www.nar.realtor/research-and-statistics
 
 https://opendata.cityofnewyork.us/
