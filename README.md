@@ -1,5 +1,7 @@
 # resources
 
+https://www.spglobal.com/marketintelligence/en/topics/real-estate
+
 https://www.nar.realtor/research-and-statistics
 
 https://opendata.cityofnewyork.us/
