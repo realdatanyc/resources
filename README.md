@@ -26,3 +26,4 @@ https://www.nerdwallet.com/article/mortgages/how-much-can-i-borrow-calculator
 
 https://monthlyparking.org/nyc-monthly-parking/
 
+[Rent Stabilization Renewal](https://patch.com/new-york/midtown-nyc/s/hosst/renewing-your-nyc-rental-stabilized-apartment-lease-its-complicated-this-time)
