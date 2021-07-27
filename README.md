@@ -6,8 +6,9 @@
 
 [Pre-fabricated houses - New York](https://www.prefabreview.com/blog/guide-to-prefab-and-modular-homes-in-new-york-the-hudson-valley-and-long-island)
 
-[Pre-fabricated houses - Oakland / Berkeley(https://www.prefabreview.com/blog/guide-to-prefab-and-modular-homes-in-the-east-bay-area-oakland-berkeley-richmond)
+[Pre-fabricated houses - Oakland / Berkeley](https://www.prefabreview.com/blog/guide-to-prefab-and-modular-homes-in-the-east-bay-area-oakland-berkeley-richmond)
 
+[Pre-fabricated houses - Phoenix, AZ](https://www.prefabreview.com/blog/guide-to-building-prefab-and-modular-homes-in-phoenix-scottsdale-arizona)
 
 https://fred.stlouisfed.org/
 
