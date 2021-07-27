@@ -2,6 +2,8 @@
 
 [Buying an Apartment - Hauseit](https://hauseit.medium.com/process-of-buying-an-apartment-in-nyc-explained-95ee1264afc5)
 
+[Home Ownership Education](https://nhsnyc.org/homeownership-education/)
+
 https://fred.stlouisfed.org/
 
 https://tracktherecovery.org/
