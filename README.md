@@ -1,5 +1,7 @@
 # resources
 
+[Rent vs. Buy Calculator - NY Times]
+
 [Buying an Apartment - Hauseit](https://hauseit.medium.com/process-of-buying-an-apartment-in-nyc-explained-95ee1264afc5)
 
 [Home Ownership Education - Neighborhood Housing Services NHS-NYC](https://nhsnyc.org/homeownership-education/)
