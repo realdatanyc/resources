@@ -2,7 +2,7 @@
 
 [Builders Trust Capital](https://builderstrustcapital.com/)
 
-{The Real Estate Risk Report - podcast](https://therealestateriskreport.com/)
+[The Real Estate Risk Report - podcast](https://therealestateriskreport.com/)
 
 [Rent vs. Buy Calculator - NY Times]
 
