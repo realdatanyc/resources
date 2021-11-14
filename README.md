@@ -1,5 +1,9 @@
 # resources
 
+[Builders Trust Capital](https://builderstrustcapital.com/)
+
+{The Real Estate Risk Report - podcast](https://therealestateriskreport.com/)
+
 [Rent vs. Buy Calculator - NY Times]
 
 [Buying an Apartment - Hauseit](https://hauseit.medium.com/process-of-buying-an-apartment-in-nyc-explained-95ee1264afc5)
