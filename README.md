@@ -6,7 +6,7 @@
 
 [The Real Estate Risk Report - podcast](https://therealestateriskreport.com/)
 
-[Rent vs. Buy Calculator - NY Times]
+[Rent vs. Buy Calculator - NY Times](https://www.nytimes.com/interactive/2014/upshot/buy-rent-calculator.html)
 
 [Buying an Apartment - Hauseit](https://hauseit.medium.com/process-of-buying-an-apartment-in-nyc-explained-95ee1264afc5)
 
