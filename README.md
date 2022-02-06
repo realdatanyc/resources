@@ -1,5 +1,7 @@
 # resources
 
+[Deconstruct Podcast](https://open.spotify.com/show/1S4lfbGmwSEWFzCGC5CmGK)
+
 [Mosaic Charts in ggplot2](https://cran.r-project.org/web/packages/ggmosaic/vignettes/ggmosaic.html)
 
 [Cellular Automata](https://plato.stanford.edu/entries/cellular-automata/)
