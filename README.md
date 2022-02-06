@@ -2,6 +2,8 @@
 
 [Mosaic Charts in ggplot2](https://cran.r-project.org/web/packages/ggmosaic/vignettes/ggmosaic.html)
 
+[Cellular Automata](https://plato.stanford.edu/entries/cellular-automata/)
+
 [Builders Trust Capital](https://builderstrustcapital.com/)
 
 [The Real Estate Risk Report - podcast](https://therealestateriskreport.com/)
