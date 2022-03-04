@@ -1,3 +1,7 @@
+# neighborhood blogs
+[Curious Uptowner](https://www.thecuriousuptowner.com/living)
+
+
 # resources
 
 [Deconstruct Podcast](https://open.spotify.com/show/1S4lfbGmwSEWFzCGC5CmGK)
