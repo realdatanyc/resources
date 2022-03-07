@@ -1,5 +1,6 @@
 # neighborhood blogs
 [The Curious Uptowner](https://www.thecuriousuptowner.com/living)
+
 [Harlem Bespoke](https://harlembespoke.blogspot.com/)
 
 
