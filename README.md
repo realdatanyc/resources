@@ -6,6 +6,8 @@
 
 # resources
 
+[Capital Gains Deductions - seller](https://www.nolo.com/legal-encyclopedia/when-home-sellers-can-reduce-capital-gains-tax-using-expenses-sale.html)
+
 [Deconstruct Podcast](https://open.spotify.com/show/1S4lfbGmwSEWFzCGC5CmGK)
 
 [Data Science in Real Estate - online seminar](https://youtu.be/iATio58YHzA)
