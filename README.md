@@ -3,6 +3,7 @@
 
 [Harlem Bespoke](https://harlembespoke.blogspot.com/)
 
+["Go with pre-war"](https://www.nytimes.com/2022/04/15/realestate/condo-defects-new-development.html)
 
 # resources
 
