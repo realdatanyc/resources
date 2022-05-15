@@ -3,7 +3,10 @@
 
 [Harlem Bespoke](https://harlembespoke.blogspot.com/)
 
-["Go with pre-war"](https://www.nytimes.com/2022/04/15/realestate/condo-defects-new-development.html)
+["Go with pre-war:  re: new construction"](https://www.nytimes.com/2022/04/15/realestate/condo-defects-new-development.html)
+
+
+[Piano Bars - NY Times](https://www.nytimes.com/2022/05/13/nyregion/piano-bars-new-york.html)
 
 # resources
 
