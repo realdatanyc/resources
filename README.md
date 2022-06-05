@@ -8,6 +8,8 @@
 
 [Piano Bars - NY Times](https://www.nytimes.com/2022/05/13/nyregion/piano-bars-new-york.html)
 
+[Bookstores - Corcoran Markets](https://inhabit.corcoran.com/bookshop-around-the-corner/)
+
 # resources
 
 [Capital Gains Deductions - seller](https://www.nolo.com/legal-encyclopedia/when-home-sellers-can-reduce-capital-gains-tax-using-expenses-sale.html)
