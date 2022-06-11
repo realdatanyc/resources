@@ -10,6 +10,8 @@
 
 [Bookstores - Corcoran Markets](https://inhabit.corcoran.com/bookshop-around-the-corner/)
 
+[HG Wells - Outline of History](https://www.gutenberg.org/files/45368/45368-h/45368-h.htm)
+
 # resources
 
 [Capital Gains Deductions - seller](https://www.nolo.com/legal-encyclopedia/when-home-sellers-can-reduce-capital-gains-tax-using-expenses-sale.html)
