@@ -20,6 +20,7 @@
 
 [Data Science in Real Estate - online seminar](https://youtu.be/iATio58YHzA)
 
+[TV Converter Box to HDMI $50](https://www.bestbuy.com/site/aluratek-digital-tv-converter-box-with-digital-video-recorder-black/6301665.p?skuId=6301665)
 
 [Mosaic Charts in ggplot2](https://cran.r-project.org/web/packages/ggmosaic/vignettes/ggmosaic.html)
 
