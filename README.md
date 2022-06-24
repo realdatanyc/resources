@@ -5,7 +5,6 @@
 
 ["Go with pre-war:  re: new construction"](https://www.nytimes.com/2022/04/15/realestate/condo-defects-new-development.html)
 
-
 [Piano Bars - NY Times](https://www.nytimes.com/2022/05/13/nyregion/piano-bars-new-york.html)
 
 [Bookstores - Corcoran Markets](https://inhabit.corcoran.com/bookshop-around-the-corner/)
@@ -17,6 +16,8 @@
 # resources
 
 [Capital Gains Deductions - seller](https://www.nolo.com/legal-encyclopedia/when-home-sellers-can-reduce-capital-gains-tax-using-expenses-sale.html)
+
+[Rent Regulation Information](https://hcr.ny.gov/most-common-rent-regulation-issues-tenants)
 
 [Deconstruct Podcast](https://open.spotify.com/show/1S4lfbGmwSEWFzCGC5CmGK)
 
