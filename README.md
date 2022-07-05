@@ -15,6 +15,9 @@
 
 [Volleyball - Open Gym NY Urban](https://www.nyurban.com/?page_id=400&filter_id=1&gametypeid=1)
 
+## MS Access / SharePoint
+[Share point lists in Access](https://support.microsoft.com/en-us/office/import-link-or-move-data-to-sharepoint-65bf7b03-74bf-445c-959a-24b7a401ddee#:~:text=Access%20opens%20the%20Get%20External,that%20you%20want%20to%20import.)
+
 # resources
 
 [Capital Gains Deductions - seller](https://www.nolo.com/legal-encyclopedia/when-home-sellers-can-reduce-capital-gains-tax-using-expenses-sale.html)
