@@ -4,6 +4,8 @@
 
 [Old Taxi](http://taxi.corcoran.com/ntlogin.asp)
 
+[Quick Stats](https://newtaxi-login.corcoran.com/?ReturnUrl=http%3A%2F%2Fquickstats.vestahub.com%2F)
+
 # neighborhood blogs
 [The Curious Uptowner](https://www.thecuriousuptowner.com/living)
 
