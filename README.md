@@ -1,5 +1,9 @@
 [NYC Data Book](https://databook.wegov.nyc/)
 
+[New Taxi](https://newtaxi-login.corcoran.com/?ReturnUrl=http%3A%2F%2Fnewtaxi.corcoran.com%2F)
+
+[Old Taxi](http://taxi.corcoran.com/ntlogin.asp)
+
 # neighborhood blogs
 [The Curious Uptowner](https://www.thecuriousuptowner.com/living)
 
