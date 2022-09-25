@@ -1,4 +1,6 @@
-[NYC Data Book](https://databook.wegov.nyc/)
+[NYC Data Book - Devin Balkind](https://databook.wegov.nyc/)
+
+[NYC Energy Star Ratings](https://www1.nyc.gov/assets/sustainablebuildings/html/LL97-n-LL33-map.html)
 
 [On-Demand Sales Training](https://agentstudio.continu.co/#/view/tracks/6108a3159a61290013e24fc5)
 
