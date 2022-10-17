@@ -1,5 +1,7 @@
 [NYC Data Book - Devin Balkind](https://databook.wegov.nyc/)
 
+[Maker Lab Set-up](https://www.youtube.com/watch?v=inW57njiq1A)
+
 [NYC Energy Star Ratings](https://www1.nyc.gov/assets/sustainablebuildings/html/LL97-n-LL33-map.html)
 
 [On-Demand Sales Training](https://agentstudio.continu.co/#/view/tracks/6108a3159a61290013e24fc5)
