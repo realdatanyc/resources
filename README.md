@@ -1,5 +1,7 @@
 [NYC Data Book - Devin Balkind](https://databook.wegov.nyc/)
 
+[Paint.NET - Beginner's Tutorial](https://youtu.be/fsL935G0VMM)
+
 [Maker Lab Set-up](https://www.youtube.com/watch?v=inW57njiq1A)
 
 [NYC Energy Star Ratings](https://www1.nyc.gov/assets/sustainablebuildings/html/LL97-n-LL33-map.html)
