@@ -1,3 +1,5 @@
+[R for Data Science](https://r4ds.had.co.nz/
+
 [FreeBSD Guide](https://www.ocf.berkeley.edu/~reinholz/freebsd/freebsd.html)
 
 [NYC Data Book - Devin Balkind](https://databook.wegov.nyc/)
