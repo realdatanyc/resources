@@ -1,4 +1,4 @@
-[R for Data Science](https://r4ds.had.co.nz/
+[R for Data Science](https://r4ds.had.co.nz/)
 
 [FreeBSD Guide](https://www.ocf.berkeley.edu/~reinholz/freebsd/freebsd.html)
 
