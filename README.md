@@ -1,3 +1,5 @@
+[FreeBSD Guide](https://www.ocf.berkeley.edu/~reinholz/freebsd/freebsd.html)
+
 [NYC Data Book - Devin Balkind](https://databook.wegov.nyc/)
 
 [Paint.NET - Beginner's Tutorial](https://youtu.be/fsL935G0VMM)
