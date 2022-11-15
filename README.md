@@ -1,5 +1,7 @@
 [R for Data Science](https://r4ds.had.co.nz/)
 
+[Integrating Access wih Sharepoint](https://support.microsoft.com/en-us/office/import-link-or-move-data-to-sharepoint-65bf7b03-74bf-445c-959a-24b7a401ddee)
+
 [FreeBSD Guide](https://www.ocf.berkeley.edu/~reinholz/freebsd/freebsd.html)
 
 [NYC Data Book - Devin Balkind](https://databook.wegov.nyc/)
