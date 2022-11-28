@@ -1,3 +1,5 @@
+[NYC Transfer Tax Info](https://radio-locator.com/cgi-bin/locate?select=city&city=New%20York&state=NY)
+
 [R for Data Science](https://r4ds.had.co.nz/)
 
 [Real Estate Data Anayltics - Tim Savage](https://github.com/thsavage)
