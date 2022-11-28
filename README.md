@@ -28,6 +28,9 @@
 
 [Quick Stats](https://newtaxi-login.corcoran.com/?ReturnUrl=http%3A%2F%2Fquickstats.vestahub.com%2F)
 
+###renter guides
+[Moving to NYC and Renting](https://www.mybanktracker.com/news/10-tips-on-moving-to-new-york
+
 # neighborhood blogs
 [The Curious Uptowner](https://www.thecuriousuptowner.com/living)
 
